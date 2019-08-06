@@ -19,11 +19,11 @@
 
         <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" type="image/x-icon">
 
-        <link rel="stylesheet" href="/assets/my_project_3/my_project_3.css" type="text/css">
+        <link rel="stylesheet" href="/assets/ronglon/ronglon.css" type="text/css">
 
         <script type="text/javascript" src="/assets/dist/b4w.js"></script>
 
-        <script type="text/javascript" src="/assets/my_project_3/my_project_3.js"></script>
+        <script type="module" src="/assets/ronglon/ronglon.js"></script>
     </head>
     <body class="#( prc.body_class ?: '' )#">
         <!--[if lt IE 7]>
